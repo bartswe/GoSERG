@@ -61,7 +61,7 @@ Adjust the simulation parameters to steer the course of the ecosystem and achiev
 Controls include the ability to pause, unpause, time travel forward, reset the board, and slow down the simulation.
 Feel free to tweak the settings even during the simulation - the world is at your fingertips.
 
-You can access the web preview at [bsski.github.io](bsski.github.io) or download .exe version for free!
+You can access the web preview at [bartswe.github.io](bartswe.github.io) or download .exe version for free!
 
 
 ## :keyboard: Keybinds
@@ -102,13 +102,9 @@ There are exciting features on the roadmap:
 - more achievements.
 
 
-## :telephone_receiver: Contact
-
-- contact.bsski@gmail.com
-
 ## :construction_worker: Author
 
-- @BSski
+- @bartswe
 
 ## :unlock: License
 

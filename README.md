@@ -31,7 +31,6 @@
 * [Animal traits](#turtle-animal-traits)
 * [Achievements](#trophy-achievements)
 * [Future improvements](#rocket-future-improvements)
-* [Contact](#telephone_receiver-contact)
 * [Author](#construction_worker-author)
 * [License](#unlock-license)
 
